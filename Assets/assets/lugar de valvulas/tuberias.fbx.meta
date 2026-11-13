@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 29026cac2e3ed514a8d725479cf4c889
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CROSS_PIPE
+    second: {fileID: 2100000, guid: cfb2a977e20be004c9de722ec92acc9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HALF U
+    second: {fileID: 2100000, guid: 06d7adbc5d59c55459c45ba84e25c05d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HALF_U
+    second: {fileID: 2100000, guid: d8261f511e276fc43b0205e851d7e872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MEDIUM SHORT
+    second: {fileID: 2100000, guid: a676d46ef081d5446be82279b425128b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_HALFU
+    second: {fileID: 2100000, guid: 51401edf7c7af7c459ea2fdb4cd4b997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 35ab037180cc40644850c593d9be2c3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 11c8eaaa6dd89cf4fb03cb1fcf4ca5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VALVE 4
+    second: {fileID: 2100000, guid: ef5995198b406d34eabcbaf2657090cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VALVE_03
+    second: {fileID: 2100000, guid: 85d0342f7649b7840b87fb201263e01e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VALVE_2
+    second: {fileID: 2100000, guid: 9105f46ded214e945b0e40168dad4adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _modular_pipes_MODULAR_PIPES_test_VRayMtl1SG
+    second: {fileID: 2100000, guid: 9b16ea09a80f3114587e081e3bb0f0a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup
+    second: {fileID: 2100000, guid: 101f571d7c6f06a41b982ba858d24380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup.001
+    second: {fileID: 2100000, guid: 2fa2daf3c7ede6148812390482237ce1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup.002
+    second: {fileID: 2100000, guid: e50694c017dfd044a98c2e034aec2871, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CROSS_01_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: fca7a0675f8388841ade6d88a11330da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_HALF_U_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 88997cce3667b324ab1447091f2341b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_LONG__modular_pipes_MODULAR_PIPES_test_VRayMtl1SG_BaseColor
+    second: {fileID: 2800000, guid: 6189406cce35ce644bd1980944142a2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_MEDIUM_HALF_U__modular_pipes_MODULAR_PIPES_test_VRayMtl1SG_BaseColor
+    second: {fileID: 2800000, guid: 353d965815a85ca4bbfde1b1cf3e2e0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_MEDIUM_LONG_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 6f87886bff50bcb4d9164227588fd499, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_MEDIUM_SHORT_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 7d9f2384eb4d34f49b50e67a1ea58a40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_SHORT_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: d04dfd6814bf417498cf7bf4aecbfb7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: PIPE_U_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 006949d1f7107c642aa541adbf48ec26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_02_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 9177cc37becc447468949fd2235448ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_03_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: f233cf67cf6486c438d79f6bda766acb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_04_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: 0a1557318e893cb43a436dc2155eb022, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_04_initialShadingGroup_Normal
+    second: {fileID: 2800000, guid: f8208e7a38e68f54b9f3b09839a3c36c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_MEDIUM_01_initialShadingGroup_BaseColor
+    second: {fileID: 2800000, guid: b7c86154108b178439e412a0f1da7513, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_MEDIUM_01_initialShadingGroup_Normal
+    second: {fileID: 2800000, guid: 0c7e8663a45450a40a857731a624ee23, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VALVE_MEDIUM_02__modular_pipes_MODULAR_PIPES_test_VRayMtl1SG_BaseColor
+    second: {fileID: 2800000, guid: 6ca60f5eb623b3b419229fc5946c91b8, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
